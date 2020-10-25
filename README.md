@@ -37,23 +37,6 @@ dependencies {
 }
 ```
 
-### Maven Setup
-
-```xml
-<!-- <repositories> section of pom.xml -->
-<repository>
-    <id>jitpack.io</id>
-   <url>https://jitpack.io</url>
-</repository>
-
-<!-- <dependencies> section of pom.xml -->
-<dependency>
-    <groupId>com.github.PhilJay</groupId>
-    <artifactId>MPAndroidChart</artifactId>
-    <version>v3.1.0</version>
-</dependency>
-```
-
 <br/>
 
 <h2 id="documentation">Documentation :notebook_with_decorative_cover:</h2>

@@ -33,7 +33,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'implementation 'com.github.WSAyan:MPAndroidChart:v3.1.1-alpha1'
+    implementation 'com.github.WSAyan:MPAndroidChart:v3.1.1-alpha1'
 }
 ```
 

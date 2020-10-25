@@ -2,12 +2,6 @@
 
 This is a pre release.
 
-[![Release](https://img.shields.io/github/release/PhilJay/MPAndroidChart.svg?style=flat)](https://jitpack.io/#WSAyan/MPAndroidChart)
-[![API](https://img.shields.io/badge/API-14%2B-green.svg?style=flat)](https://android-arsenal.com/api?level=14)
-[![Android Arsenal](http://img.shields.io/badge/Android%20Arsenal-MPAndroidChart-orange.svg?style=flat)](http://android-arsenal.com/details/1/741)
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/PhilJay/MPAndroidChart?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
-[![Twitter](https://img.shields.io/badge/Twitter-@mpandroidchart-blue.svg?style=flat)](http://twitter.com/mpandroidchart)
-
 :zap: A powerful & easy to use chart library for Android :zap:
 
 [**Charts**](https://github.com/danielgindi/Charts) is the iOS version of this library
@@ -15,7 +9,6 @@ This is a pre release.
 ## Table of Contents
 1. [Quick Start](#quick-start)
     1. [Gradle](#gradle-setup)
-    1. [Maven](#maven-setup)
 1. [Documentation](#documentation)
 1. [Examples](#examples)
 1. [Questions](#report)
